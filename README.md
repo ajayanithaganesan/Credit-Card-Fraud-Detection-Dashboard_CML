@@ -82,8 +82,8 @@ Developed for academic purposes as part of the MSc Cloud Computing Machine Learn
 
 ## Team Members
 
-Ajay Anitha Ganesan
-Dharanish Punjaipuliampatti Mayilsamy
-Arun Natrajan
-Aravind Singam
+- Ajay Anitha Ganesan
+- Dharanish Punjaipuliampatti Mayilsamy
+- Arun Natrajan
+- Aravind Singam
 
