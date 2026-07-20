@@ -31,6 +31,7 @@ credit-card-fraud-detection-dashboard/
 │
 ├── .platform/                  # Elastic Beanstalk platform configuration
 ├── .streamlit/                 # Streamlit configuration
+├── documents/                  # Streamlit configuration
 ├── fraud_dashboard/            # Dashboard components
 ├── sample_data/                # Sample transaction datasets
 │
@@ -79,3 +80,11 @@ The application is deployed on **AWS Elastic Beanstalk** using an **Amazon EC2 t
 ## License
 
 Developed for academic purposes as part of the MSc Cloud Computing Machine Learning project.
+
+## Team Members
+
+- Ajay Anitha Ganesan
+- Dharanish Punjaipuliampatti Mayilsamy
+- Arun Natrajan
+- Aravind Singam
+
