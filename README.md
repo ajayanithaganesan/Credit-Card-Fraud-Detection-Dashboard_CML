@@ -31,7 +31,7 @@ credit-card-fraud-detection-dashboard/
 │
 ├── .platform/                  # Elastic Beanstalk platform configuration
 ├── .streamlit/                 # Streamlit configuration
-├── documents/                  # Streamlit configuration
+├── documents/                  # Data preprocessing and 4 model training and evaluation collab notebook file and Architectue diagram
 ├── fraud_dashboard/            # Dashboard components
 ├── sample_data/                # Sample transaction datasets
 │
