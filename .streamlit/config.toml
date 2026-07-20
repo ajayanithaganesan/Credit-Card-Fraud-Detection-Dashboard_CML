@@ -1,0 +1,19 @@
+[server]
+headless = true
+port = 8000
+address = "0.0.0.0"
+maxUploadSize = 50
+maxMessageSize = 50
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#1e40af"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f8fafc"
+textColor = "#334155"
+font = "sans serif"
