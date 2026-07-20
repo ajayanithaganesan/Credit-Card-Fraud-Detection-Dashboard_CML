@@ -43,6 +43,10 @@ credit-card-fraud-detection-dashboard/
 ├── Procfile                    # Elastic Beanstalk startup configuration
 └── .gitignore
 ```
+## Architecture Diagram
+
+![Architecture Diagram](https://github.com/ajayanithaganesan/Credit-Card-Fraud-Detection-Dashboard_CML/blob/main/documents/Credit%20Card%20Fraud%20Detection%20Dashboard%20Architecture%20Diagram%20with%20AWS.png)
+
 
 ## Getting Started
 
