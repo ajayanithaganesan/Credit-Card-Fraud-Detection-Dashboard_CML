@@ -47,6 +47,16 @@ credit-card-fraud-detection-dashboard/
 
 ![Architecture Diagram](https://github.com/ajayanithaganesan/Credit-Card-Fraud-Detection-Dashboard_CML/blob/main/documents/Credit%20Card%20Fraud%20Detection%20Dashboard%20Architecture%20Diagram%20with%20AWS.png)
 
+## Application Pages
+
+| Fraud Detection Dashboard | Analysis Page |
+| :---: | :---: |
+| ![Fraud Detection Dashboard](https://github.com/ajayanithaganesan/Credit-Card-Fraud-Detection-Dashboard_CML/blob/main/documents/Fraud%20detection%20dashboard%20image.png) | ![Analysis Page](https://github.com/ajayanithaganesan/Credit-Card-Fraud-Detection-Dashboard_CML/blob/main/documents/Analysis%20page.png) |
+
+| Classified Transaction Lists | High Risk Transaction Page |
+| :---: | :---: |
+| ![Classified Transaction Lists](https://github.com/ajayanithaganesan/Credit-Card-Fraud-Detection-Dashboard_CML/blob/main/documents/transaction%20lists%20classified.png) | ![High Risk Transaction Page](https://github.com/ajayanithaganesan/Credit-Card-Fraud-Detection-Dashboard_CML/blob/main/documents/high%20risk%20transaction%20page.png) |
+
 ## Visualizations & Model Benchmarks
 
 ### A. Data Analysis & Preprocessing Plots
